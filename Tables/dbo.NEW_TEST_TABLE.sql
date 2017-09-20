@@ -1,0 +1,5 @@
+CREATE TABLE [dbo].[NEW_TEST_TABLE]
+(
+[Field1Test] [int] NULL
+) ON [PRIMARY]
+GO
